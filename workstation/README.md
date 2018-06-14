@@ -4,7 +4,7 @@ Sprzedam stacje roboczą, którą złożyłem na swoje potrzeby w Styczniu 2017.
 Sprzęt składany był z konkretnymi celami:
 - do programowania
 - dobra współpraca z Linuxem (Ubuntu)
-- uciągnie dwa monitory duże monitory (2560x1440).
+- uciągnie dwa duże monitory (2560x1440).
 Sprawdzał się znakomicie, sprzedaje w związku z tym, że mam nowy służbowy a ten się kurzy :)
 
 Cena: 1800 PLN (nie wystawie faktury VAT)
