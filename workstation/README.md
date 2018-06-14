@@ -1,5 +1,7 @@
 # Stacja robocza
 
+<img src="https://github.com/marcinjakuszko/gielda/raw/master/workstation/IMG_20180614_103600.jpg" height="200px" width="200px"?>
+
 Sprzedam stacje roboczą, którą złożyłem na swoje potrzeby w Styczniu 2017.
 Sprzęt składany był z konkretnymi celami:
 - do programowania
