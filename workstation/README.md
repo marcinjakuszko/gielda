@@ -1,7 +1,5 @@
 # Stacja robocza
 
-![image 1](https://github.com/marcinjakuszko/gielda/raw/master/workstation/IMG_20180614_103600.jpg)
-
 Sprzedam stacje roboczą, którą złożyłem na swoje potrzeby w Styczniu 2017.
 Sprzęt składany był z konkretnymi celami:
 - do programowania
@@ -12,9 +10,12 @@ Sprawdzał się znakomicie, sprzedaje w związku z tym, że mam nowy służbowy 
 Cena: 1800 PLN (nie wystawie faktury VAT)
 
 Na wszystkie podzespoły posiadam rachunki, wszystko kupione w Morele.net lub X-KOM, tylko dodatkowa grafika na Allegro :)
+Od płyty głównej, ramu i dysku posiadam pudełka, a w zestawie wszystko co było razem z płytą (śrudbki i inne).
+Szczegółowe fotki w folderze.
 
 Obudowa: Cooler Master N200 (NSE-200-KKN1)
 Bardzo ładna, kompaktowa, łatwa do zagospodarowania w środku, dedykowane miejsce na SSD :)
+Na obudowie jeszcze folia na błyszczącej części, komp stał pod biurkiem, nie zrywałem :D
 http://www.coolermaster.com/case/mini-tower/n200/
 
 Zasilacz: Corsair VS Series 550W 80PLUS 120mm FAN CP-9020097-EU 
@@ -35,3 +36,5 @@ Dysk SSD: Samsung 250GB 2,5'' SATA SSD Seria 850 EVO
 
 Dodatkowa grafika: NVidia Quadro 2000 1GB PCI-e
 1x DVI-D, 1x HDMI, 1x DisplayPort
+
+![image 1](https://github.com/marcinjakuszko/gielda/raw/master/workstation/IMG_20180614_104037.jpg)
