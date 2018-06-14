@@ -1,7 +1,6 @@
 # Stacja robocza
 
-![image 1]
-(https://github.com/marcinjakuszko/gielda/raw/master/workstation/IMG_20180614_103600.jpg)
+![image 1](https://github.com/marcinjakuszko/gielda/raw/master/workstation/IMG_20180614_103600.jpg)
 
 Sprzedam stacje roboczą, którą złożyłem na swoje potrzeby w Styczniu 2017.
 Sprzęt składany był z konkretnymi celami:
