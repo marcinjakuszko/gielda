@@ -7,7 +7,7 @@ Sprzęt składany był z konkretnymi celami:
 - uciągnie dwa duże monitory (2560x1440).
 Sprawdzał się znakomicie, sprzedaje w związku z tym, że mam nowy służbowy a ten się kurzy :)
 
-Cena: 1800 PLN (nie wystawie faktury VAT)
+Cena: 1700 PLN (nie wystawie faktury VAT)
 
 Na wszystkie podzespoły posiadam rachunki, wszystko kupione w Morele.net lub X-KOM, tylko dodatkowa grafika na Allegro :)
 Od płyty głównej, ramu i dysku posiadam pudełka, a w zestawie wszystko co było razem z płytą (śrudbki i inne).
